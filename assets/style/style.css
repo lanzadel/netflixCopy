@@ -167,6 +167,7 @@ h3 {
 }
 a {
     text-decoration: none;
+    color:#6054ba;
 }
 a h3:hover {
     color: #fff;
@@ -364,4 +365,9 @@ a h3:hover {
 }
 .alertSuccess {
     color: #2ecc71;
+}
+.formSection h3 {
+    padding: 0;
+    color: #fff;
+    font-size: 20px;
 }
